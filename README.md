@@ -1,4 +1,9 @@
 # MIAT
+## Install
+Pytorch
+```
+$ pip install torch torchvision
+```
 
 ## CIFAR-10
 Training:
